@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Gencer 👋
 
 Dizi dünyasına dair en güncel fragmanlar, analizler ve özel içerikler üzerine çalışıyorum.
@@ -23,5 +20,3 @@ Dizi dünyasını kaçırmamak için:
 👉 [Dizi fragmanları izle](https://dizifragman.tr)
 👉 [En güncel dizileri takip et](https://dizifragman.tr)
 👉 https://dizifragman.tr
-
--->
