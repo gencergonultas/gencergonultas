@@ -1,22 +1,14 @@
-# Gencer 👋
-
-Dizi dünyasına dair en güncel fragmanlar, analizler ve özel içerikler üzerine çalışıyorum.
-
-🎬 En güncel dizi fragmanları ve analizler:
-👉 https://dizifragman.tr
-
-## 🚀 Neler Paylaşıyorum?
-- Güncel dizi fragmanları
-- Bölüm analizleri
-- Karakter incelemeleri
-- Dizi dünyasından gelişmeler
-
-## 🔗 Siteyi Ziyaret Et
-👉 https://dizifragman.tr
-
-Dizi dünyasını kaçırmamak için:
-👉 https://dizifragman.tr
-
-👉 [Dizi fragmanları izle](https://dizifragman.tr)
-👉 [En güncel dizileri takip et](https://dizifragman.tr)
-👉 https://dizifragman.tr
+Gencer
+Türk dizi dünyasını takip eden, fragman ve içerik analizleri üzerine çalışan bir içerik üreticisiyim.
+Ne Yapıyorum?
+Güncel dizi fragmanlarını, yeni bölüm gelişmelerini ve karakter analizlerini düzenli olarak yayınlıyorum. Özellikle Türk dizilerindeki hikâye kırılmalarını ve fragman analizlerini ele alıyorum.
+Projeler
+dizifragman.tr
+Türk dizilerinin en güncel fragmanlarını, bölüm analizlerini ve dizi haberlerini bir arada sunan içerik sitesi.
+🔗 https://dizifragman.tr
+İlgi Alanları
+Türk dizi sektörü ve prodüksiyon süreçleri
+İçerik analizi ve senaristik yapılar
+Dijital yayıncılık ve platform ekosistemi
+---
+📬 İletişim için GitHub üzerinden ulaşabilirsiniz.
